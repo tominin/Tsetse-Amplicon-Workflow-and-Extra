@@ -1,0 +1,424 @@
+pool,barcode,species identified,latin name,best hit,number of species above 90%,cytb:pseudogene counts,read number
+Pool3,barcode01,Elephant,Loxodonta africana,96.743,1,1:0,164939
+Pool3,barcode01,Buffalo,Syncerus caffer,98.697,1,1:0,11718
+Pool3,barcode01,Spotted Hyaena,Crocuta crocuta,97.72,1,1:0,898
+Pool3,barcode01,Elephant,Loxodonta africana,96.07,1,1:0,40
+Pool3,barcode01,Giraffe,Giraffa giraffa,99.674,1,1:0,280
+Pool3,barcode01,Warthog,Phacochoerus africanus,99.674,1,1:0,57
+Pool3,barcode01,Giraffe,Giraffa giraffa,99.674,1,1:0,215
+Pool3,barcode01,Elephant,Loxodonta africana,96.743,1,1:0,5585
+Pool3,barcode01,Spotted Hyaena,Crocuta crocuta,91.531,1,1:0,101
+Pool3,barcode01,Buffalo,Syncerus caffer,98.587,1,1:0,81
+Pool3,barcode01,multiple species,N/A,92.491,2,2:0,133
+Pool3,barcode01,Elephant,Loxodonta africana,96.743,1,1:0,1814
+Pool3,barcode01,multiple species,N/A,91.234,2,2:0,32
+Pool3,barcode01,multiple species,N/A,92.182,2,2:0,113
+Pool3,barcode01,Human,Homo sapiens,99.349,1,5:0,21
+Pool3,barcode01,multiple species,N/A,92.333,2,2:0,48
+Pool3,barcode01,Elephant,Loxodonta africana,92.508,1,1:0,87
+Pool3,barcode01,Elephant,Loxodonta africana,96.457,1,1:0,41
+Pool3,barcode01,Elephant,Loxodonta africana,90.879,1,1:0,992
+Pool3,barcode01,Buffalo,Syncerus caffer,98.582,1,1:0,64
+Pool3,barcode01,Giraffe,Giraffa giraffa,93.16,1,1:0,43
+Pool3,barcode01,Spotted Hyaena,Crocuta crocuta,100.0,1,1:0,27
+Pool3,barcode01,Buffalo,Syncerus caffer,98.697,1,1:0,1025
+Pool3,barcode01,Buffalo,Syncerus caffer,98.697,1,1:0,15513
+Pool3,barcode01,Spotted Hyaena,Crocuta crocuta,100.0,1,1:0,320
+Pool3,barcode01,Elephant,Loxodonta africana,96.454,1,1:0,361
+Pool3,barcode01,Warthog,Phacochoerus africanus,99.674,1,1:0,122
+Pool3,barcode01,Elephant,Loxodonta africana,96.743,1,1:0,19
+Pool3,barcode01,Elephant,Loxodonta africana,90.879,1,1:0,939
+Pool3,barcode01,Elephant,Loxodonta africana,96.743,1,1:0,235
+Pool3,barcode01,multiple species,N/A,98.697,2,2:0,27
+Pool3,barcode05,Elephant,Loxodonta africana,96.743,1,1:0,106913
+Pool3,barcode05,Buffalo,Syncerus caffer,98.697,1,1:0,18570
+Pool3,barcode05,Elephant,Loxodonta africana,96.337,1,1:0,428
+Pool3,barcode05,Buffalo,Syncerus caffer,98.697,1,1:0,11920
+Pool3,barcode05,Spotted Hyaena,Crocuta crocuta,100.0,1,1:0,2016
+Pool3,barcode05,Buffalo,Syncerus caffer,98.697,1,1:0,562
+Pool3,barcode05,Warthog,Phacochoerus africanus,99.674,1,1:0,73
+Pool3,barcode05,Elephant,Loxodonta africana,96.743,1,1:0,3477
+Pool3,barcode05,Giraffe,Giraffa giraffa,99.674,1,1:0,186
+Pool3,barcode05,Elephant,Loxodonta africana,96.457,1,1:0,238
+Pool3,barcode05,Human,Homo sapiens,100.0,1,5:0,29
+Pool3,barcode05,Elephant,Loxodonta africana,96.296,1,1:0,77
+Pool3,barcode05,Buffalo,Syncerus caffer,98.587,1,1:0,77
+Pool3,barcode05,Buffalo,Syncerus caffer,91.883,1,1:0,200
+Pool3,barcode05,Buffalo,Syncerus caffer,93.515,1,1:0,83
+Pool3,barcode05,Buffalo,Syncerus caffer,98.587,1,1:0,80
+Pool3,barcode05,Elephant,Loxodonta africana,96.743,1,1:0,60553
+Pool3,barcode05,Spotted Hyaena,Crocuta crocuta,100.0,1,1:0,27
+Pool3,barcode05,Elephant,Loxodonta africana,90.228,1,1:0,1759
+Pool3,barcode05,Elephant,Loxodonta africana,96.047,1,1:0,29
+Pool3,barcode05,multiple species,N/A,92.15,2,2:0,58
+Pool3,barcode05,Buffalo,Syncerus caffer,98.697,1,1:0,300
+Pool3,barcode05,Elephant,Loxodonta africana,96.743,1,1:0,1208
+Pool3,barcode05,Elephant,Loxodonta africana,96.743,1,1:0,378
+Pool3,barcode05,multiple species,N/A,98.697,2,2:0,103
+Pool3,barcode05,multiple species,N/A,98.697,2,2:0,54
+Pools 4 & 5,barcode02,Buffalo,Syncerus caffer,99.023,1,1:0,37356
+Pools 4 & 5,barcode02,Human,Homo sapiens,99.023,1,5:0,11048
+Pools 4 & 5,barcode02,Goat,Capra hircus,99.674,1,1:0,10424
+Pools 4 & 5,barcode02,multiple species,N/A,100.0,2,3:0,839
+Pools 4 & 5,barcode02,Elephant,Loxodonta africana,100.0,1,1:0,630
+Pools 4 & 5,barcode02,multiple species,N/A,97.386,2,2:0,2989
+Pools 4 & 5,barcode02,Warthog,Phacochoerus africanus,99.674,1,1:0,2255
+Pools 4 & 5,barcode02,Buffalo,Syncerus caffer,91.83,1,1:0,707
+Pools 4 & 5,barcode02,Buffalo,Syncerus caffer,99.023,1,1:0,1542
+Pools 4 & 5,barcode02,Antelope,Tragelaphus scriptus,90.228,1,1:0,1088
+Pools 4 & 5,barcode02,multiple species,N/A,97.386,2,2:0,764
+Pools 4 & 5,barcode02,Goat,Capra hircus,99.674,1,1:0,1567
+Pools 4 & 5,barcode02,Elephant,Loxodonta africana,100.0,1,1:0,248
+Pools 4 & 5,barcode02,Buffalo,Syncerus caffer,98.94,1,1:0,131
+Pools 4 & 5,barcode02,Goat,Capra hircus,99.674,1,1:0,268
+Pools 4 & 5,barcode02,Buffalo,Syncerus caffer,91.83,1,1:0,181
+Pools 4 & 5,barcode02,Elephant,Loxodonta africana,100.0,1,1:0,54
+Pools 4 & 5,barcode02,Goat,Capra hircus,91.205,1,1:0,79
+Pools 4 & 5,barcode02,multiple species,N/A,93.87,2,2:0,48
+Pools 4 & 5,barcode02,multiple species,N/A,97.386,2,2:0,139
+Pools 4 & 5,barcode02,Warthog,Phacochoerus africanus,99.674,1,1:0,82
+Pools 4 & 5,barcode02,Buffalo,Syncerus caffer,99.18,1,1:0,69
+Pools 4 & 5,barcode02,Goat,Capra hircus,93.485,1,1:0,147
+Pools 4 & 5,barcode02,Goat,Capra hircus,92.953,1,1:0,90
+Pools 4 & 5,barcode02,Goat,Capra hircus,90.879,1,1:0,168
+Pools 4 & 5,barcode02,Elephant,Loxodonta africana,90.228,1,1:0,88
+Pools 4 & 5,barcode02,Goat,Capra hircus,90.333,1,1:0,56
+Pools 4 & 5,barcode02,multiple species,N/A,91.475,2,0:2,83
+Pools 4 & 5,barcode02,multiple species,N/A,92.834,2,2:0,41
+Pools 4 & 5,barcode02,multiple species,N/A,93.487,2,2:0,16
+Pools 4 & 5,barcode02,Warthog,Phacochoerus africanus,90.228,1,1:0,37
+Pools 4 & 5,barcode02,Goat,Capra hircus,91.362,1,1:0,51
+Pools 4 & 5,barcode02,Elephant,Loxodonta africana,90.228,1,1:0,95
+Pools 4 & 5,barcode02,Buffalo,Syncerus caffer,98.932,1,1:0,194
+Pools 4 & 5,barcode02,Goat,Capra hircus,91.362,1,1:0,148
+Pools 4 & 5,barcode02,multiple species,N/A,91.475,2,0:2,66
+Pools 4 & 5,barcode02,Goat,Capra hircus,90.333,1,1:0,29
+Pools 4 & 5,barcode02,Warthog,Phacochoerus africanus,99.674,1,1:0,3403
+Pools 4 & 5,barcode02,multiple species,N/A,90.813,2,2:0,33
+Pools 4 & 5,barcode02,Goat,Capra hircus,92.508,1,1:0,18
+Pools 4 & 5,barcode02,Human,Homo sapiens,90.033,1,1:0,51
+Pools 4 & 5,barcode02,Goat,Capra hircus,92.953,1,1:0,31
+Pools 4 & 5,barcode02,multiple species,N/A,93.485,2,2:0,29
+Pools 4 & 5,barcode02,Human,Homo sapiens,98.897,1,5:0,36
+Pools 4 & 5,barcode02,Elephant,Loxodonta africana,90.228,1,1:0,28
+Pools 4 & 5,barcode02,multiple species,N/A,93.487,2,2:0,43
+Pools 4 & 5,barcode02,Warthog,Phacochoerus africanus,90.554,1,1:0,35
+Pools 4 & 5,barcode02,Goat,Capra hircus,90.879,1,1:0,34
+Pools 4 & 5,barcode02,multiple species,N/A,92.157,2,1:1,28
+Pools 4 & 5,barcode02,multiple species,N/A,91.475,2,0:2,16
+Pools 4 & 5,barcode02,multiple species,N/A,97.386,2,2:0,3289
+Pools 4 & 5,barcode02,Antelope,Taurotragus derbianus,95.752,1,0:1,24
+Pools 4 & 5,barcode02,Goat,Capra hircus,94.137,1,1:0,93
+Pools 4 & 5,barcode02,multiple species,N/A,100.0,2,3:0,8
+Pools 4 & 5,barcode02,Goat,Capra hircus,99.648,1,1:0,32
+Pools 4 & 5,barcode02,Buffalo,Syncerus caffer,98.611,1,1:0,53
+Pools 4 & 5,barcode02,Goat,Capra hircus,90.879,1,1:0,20
+Pools 4 & 5,barcode02,Goat,Capra hircus,92.508,1,1:0,15
+Pools 4 & 5,barcode02,Human,Homo sapiens,99.023,1,5:0,2716
+Pools 4 & 5,barcode02,Human,Homo sapiens,98.008,1,5:0,17
+Pools 4 & 5,barcode02,multiple species,N/A,92.81,2,2:0,126
+Pools 4 & 5,barcode02,Antelope,Taurotragus derbianus,95.765,1,0:1,18
+Pools 4 & 5,barcode02,Antelope,Tragelaphus scriptus,91.857,1,1:0,15
+Pools 4 & 5,barcode02,Buffalo,Syncerus caffer,99.023,1,1:0,26718
+Pools 4 & 5,barcode02,Goat,Capra hircus,90.94,1,1:0,14
+Pools 4 & 5,barcode02,Elephant,Loxodonta africana,92.434,1,1:0,17
+Pools 4 & 5,barcode02,multiple species,N/A,97.153,2,2:0,13
+Pools 4 & 5,barcode02,Goat,Capra hircus,92.182,1,1:0,21
+Pools 4 & 5,barcode02,Buffalo,Syncerus caffer,99.023,1,1:0,8698
+Pools 4 & 5,barcode02,Human,Homo sapiens,99.023,1,5:0,8689
+Pools 4 & 5,barcode02,Elephant,Loxodonta africana,100.0,1,1:0,1091
+Pools 4 & 5,barcode02,Buffalo,Syncerus caffer,99.023,1,1:0,87
+Pools 4 & 5,barcode02,Goat,Capra hircus,92.282,1,1:0,88
+Pools 4 & 5,barcode02,multiple species,N/A,91.531,3,2:1,21
+Pools 4 & 5,barcode02,Buffalo,Syncerus caffer,99.023,1,1:0,43
+Pools 4 & 5,barcode03,Buffalo,Syncerus caffer,99.023,1,1:0,41637
+Pools 4 & 5,barcode03,Human,Homo sapiens,99.023,1,5:0,10810
+Pools 4 & 5,barcode03,Human,Homo sapiens,99.023,1,5:0,10629
+Pools 4 & 5,barcode03,Buffalo,Syncerus caffer,99.023,1,1:0,16275
+Pools 4 & 5,barcode03,Goat,Capra hircus,99.674,1,1:0,6506
+Pools 4 & 5,barcode03,Elephant,Loxodonta africana,100.0,1,1:0,1008
+Pools 4 & 5,barcode03,multiple species,N/A,97.386,2,2:0,974
+Pools 4 & 5,barcode03,Goat,Capra hircus,99.674,1,1:0,536
+Pools 4 & 5,barcode03,Elephant,Loxodonta africana,100.0,1,1:0,584
+Pools 4 & 5,barcode03,multiple species,N/A,100.0,2,3:0,449
+Pools 4 & 5,barcode03,Human,Homo sapiens,99.023,1,5:0,862
+Pools 4 & 5,barcode03,Goat,Capra hircus,99.674,1,1:0,124
+Pools 4 & 5,barcode03,Elephant,Loxodonta africana,100.0,1,1:0,29
+Pools 4 & 5,barcode03,Buffalo,Syncerus caffer,91.83,1,1:0,440
+Pools 4 & 5,barcode03,multiple species,N/A,97.386,2,2:0,55
+Pools 4 & 5,barcode03,Antelope,Taurotragus derbianus,90.554,1,0:1,52
+Pools 4 & 5,barcode03,Warthog,Phacochoerus africanus,99.674,1,1:0,134
+Pools 4 & 5,barcode03,Buffalo,Syncerus caffer,99.023,1,1:0,974
+Pools 4 & 5,barcode03,multiple species,N/A,100.0,2,3:0,1038
+Pools 4 & 5,barcode03,Buffalo,Syncerus caffer,98.94,1,1:0,141
+Pools 4 & 5,barcode03,multiple species,N/A,91.475,2,0:2,23
+Pools 4 & 5,barcode03,Elephant,Loxodonta africana,100.0,1,1:0,85
+Pools 4 & 5,barcode03,Elephant,Loxodonta africana,90.228,1,1:0,65
+Pools 4 & 5,barcode03,Elephant,Loxodonta africana,90.228,1,1:0,57
+Pools 4 & 5,barcode03,Human,Homo sapiens,90.033,1,1:0,68
+Pools 4 & 5,barcode03,Buffalo,Syncerus caffer,99.023,1,1:0,2902
+Pools 4 & 5,barcode03,Goat,Capra hircus,91.362,1,1:0,119
+Pools 4 & 5,barcode03,Goat,Capra hircus,99.674,1,1:0,2789
+Pools 4 & 5,barcode03,Warthog,Phacochoerus africanus,90.228,1,1:0,24
+Pools 4 & 5,barcode03,Buffalo,Syncerus caffer,98.932,1,1:0,232
+Pools 4 & 5,barcode03,Goat,Capra hircus,91.205,1,1:0,99
+Pools 4 & 5,barcode03,Goat,Capra hircus,92.282,1,1:0,77
+Pools 4 & 5,barcode03,multiple species,N/A,97.386,2,2:0,21
+Pools 4 & 5,barcode03,Human,Homo sapiens,92.359,1,5:0,66
+Pools 4 & 5,barcode03,Buffalo,Syncerus caffer,99.174,1,1:0,57
+Pools 4 & 5,barcode03,Goat,Capra hircus,94.137,1,1:0,97
+Pools 4 & 5,barcode03,Human,Homo sapiens,99.267,1,5:0,31
+Pools 4 & 5,barcode03,Goat,Capra hircus,91.611,1,1:0,17
+Pools 4 & 5,barcode03,Goat,Capra hircus,90.333,1,1:0,47
+Pools 4 & 5,barcode03,Goat,Capra hircus,99.648,1,1:0,22
+Pools 4 & 5,barcode03,Warthog,Phacochoerus africanus,99.674,1,1:0,15
+Pools 4 & 5,barcode03,Human,Homo sapiens,99.023,1,5:0,425
+Pools 4 & 5,barcode03,Buffalo,Syncerus caffer,99.023,1,1:0,27
+Pools 4 & 5,barcode03,multiple species,N/A,93.811,2,2:0,18
+Pools 4 & 5,barcode03,Goat,Capra hircus,100.0,1,1:0,8
+Pools 4 & 5,barcode03,Human,Homo sapiens,98.734,1,5:0,19
+Pools 4 & 5,barcode03,Goat,Capra hircus,91.362,1,1:0,19
+Pools 4 & 5,barcode03,Human,Homo sapiens,98.925,1,5:0,24
+Pools 4 & 5,barcode03,multiple species,N/A,91.475,2,0:2,31
+Pools 4 & 5,barcode03,Buffalo,Syncerus caffer,91.83,1,1:0,49
+Pools 4 & 5,barcode03,multiple species,N/A,99.023,2,5:0,29
+Pools 4 & 5,barcode03,multiple species,N/A,99.674,2,2:0,19
+Pools 4 & 5,barcode03,multiple species,N/A,99.675,2,2:0,13
+Pools 4 & 5,barcode03,multiple species,N/A,99.023,2,5:0,32
+Pools 4 & 5,barcode03,Buffalo,Syncerus caffer,99.023,1,1:0,112
+Pools 4 & 5,barcode06,Buffalo,Syncerus caffer,99.023,1,1:0,100266
+Pools 4 & 5,barcode06,Goat,Capra hircus,99.674,1,1:0,9327
+Pools 4 & 5,barcode06,Human,Homo sapiens,99.023,1,5:0,16463
+Pools 4 & 5,barcode06,Goat,Capra hircus,99.674,1,1:0,5591
+Pools 4 & 5,barcode06,multiple species,N/A,97.386,2,2:0,912
+Pools 4 & 5,barcode06,Elephant,Loxodonta africana,100.0,1,1:0,2272
+Pools 4 & 5,barcode06,Goat,Capra hircus,99.674,1,1:0,479
+Pools 4 & 5,barcode06,Human,Homo sapiens,99.023,1,5:0,488
+Pools 4 & 5,barcode06,Goat,Capra hircus,91.362,1,1:0,146
+Pools 4 & 5,barcode06,Buffalo,Syncerus caffer,98.94,1,1:0,158
+Pools 4 & 5,barcode06,Goat,Capra hircus,99.674,1,1:0,156
+Pools 4 & 5,barcode06,Buffalo,Syncerus caffer,99.174,1,1:0,69
+Pools 4 & 5,barcode06,Human,Homo sapiens,97.976,1,5:0,30
+Pools 4 & 5,barcode06,Human,Homo sapiens,99.023,1,5:0,667
+Pools 4 & 5,barcode06,Buffalo,Syncerus caffer,99.023,1,1:0,1991
+Pools 4 & 5,barcode06,Antelope,Tragelaphus scriptus,90.554,1,1:0,103
+Pools 4 & 5,barcode06,multiple species,N/A,97.386,2,2:0,42
+Pools 4 & 5,barcode06,Elephant,Loxodonta africana,100.0,1,1:0,45
+Pools 4 & 5,barcode06,Human,Homo sapiens,90.033,1,1:0,89
+Pools 4 & 5,barcode06,Goat,Capra hircus,90.909,1,1:0,79
+Pools 4 & 5,barcode06,Goat,Capra hircus,92.182,1,1:0,79
+Pools 4 & 5,barcode06,Goat,Capra hircus,94.137,1,1:0,53
+Pools 4 & 5,barcode06,Human,Homo sapiens,94.0,1,5:0,118
+Pools 4 & 5,barcode06,Warthog,Phacochoerus africanus,99.674,1,1:0,57
+Pools 4 & 5,barcode06,Elephant,Loxodonta africana,100.0,1,1:0,1737
+Pools 4 & 5,barcode06,Buffalo,Syncerus caffer,99.074,1,1:0,34
+Pools 4 & 5,barcode06,Human,Homo sapiens,98.755,1,5:0,24
+Pools 4 & 5,barcode06,Warthog,Phacochoerus africanus,99.026,1,1:0,22
+Pools 4 & 5,barcode06,Buffalo,Syncerus caffer,93.791,1,1:0,975
+Pools 4 & 5,barcode06,Human,Homo sapiens,98.901,1,5:0,33
+Pools 4 & 5,barcode06,multiple species,N/A,91.475,2,0:2,14
+Pools 4 & 5,barcode06,Human,Homo sapiens,99.023,1,5:0,16127
+Pools 4 & 5,barcode06,Buffalo,Syncerus caffer,98.805,1,1:0,85
+Pools 4 & 5,barcode06,Buffalo,Syncerus caffer,98.936,1,1:0,181
+Pools 4 & 5,barcode06,multiple species,N/A,97.386,2,2:0,1212
+Pools 4 & 5,barcode06,Goat,Capra hircus,92.508,1,1:0,72
+Pools 4 & 5,barcode06,Goat,Capra hircus,92.617,1,1:0,106
+Pools 4 & 5,barcode06,Goat,Capra hircus,90.879,1,1:0,120
+Pools 4 & 5,barcode06,multiple species,N/A,91.475,2,0:2,24
+Pools 4 & 5,barcode06,Buffalo,Syncerus caffer,99.023,1,1:0,151
+Pools 4 & 5,barcode06,multiple species,N/A,99.023,2,5:0,25
+Pools 4 & 5,barcode06,Buffalo,Syncerus caffer,99.023,1,1:0,46
+Pools 4 & 5,barcode06,multiple species,N/A,99.023,2,5:0,16
+Pools 4 & 5,barcode06,Buffalo,Syncerus caffer,99.023,1,1:0,15
+Pools 4 & 5,barcode07,Buffalo,Syncerus caffer,99.023,1,1:0,61877
+Pools 4 & 5,barcode07,Human,Homo sapiens,99.023,1,5:0,19487
+Pools 4 & 5,barcode07,Human,Homo sapiens,99.023,1,5:0,16430
+Pools 4 & 5,barcode07,Goat,Capra hircus,99.674,1,1:0,10068
+Pools 4 & 5,barcode07,Buffalo,Syncerus caffer,99.023,1,1:0,34912
+Pools 4 & 5,barcode07,Goat,Capra hircus,99.674,1,1:0,6067
+Pools 4 & 5,barcode07,Human,Homo sapiens,99.023,1,5:0,401
+Pools 4 & 5,barcode07,Elephant,Loxodonta africana,100.0,1,1:0,3990
+Pools 4 & 5,barcode07,multiple species,N/A,97.386,2,2:0,857
+Pools 4 & 5,barcode07,Goat,Capra hircus,99.674,1,1:0,265
+Pools 4 & 5,barcode07,Elephant,Loxodonta africana,100.0,1,1:0,85
+Pools 4 & 5,barcode07,Buffalo,Syncerus caffer,99.023,1,1:0,1109
+Pools 4 & 5,barcode07,Human,Homo sapiens,99.023,1,5:0,592
+Pools 4 & 5,barcode07,Goat,Capra hircus,99.674,1,1:0,164
+Pools 4 & 5,barcode07,Buffalo,Syncerus caffer,98.94,1,1:0,191
+Pools 4 & 5,barcode07,Goat,Capra hircus,92.691,1,1:0,185
+Pools 4 & 5,barcode07,Buffalo,Syncerus caffer,99.174,1,1:0,83
+Pools 4 & 5,barcode07,Goat,Capra hircus,92.282,1,1:0,129
+Pools 4 & 5,barcode07,Goat,Capra hircus,90.879,1,1:0,133
+Pools 4 & 5,barcode07,Goat,Capra hircus,91.857,1,1:0,99
+Pools 4 & 5,barcode07,Buffalo,Syncerus caffer,98.577,1,1:0,280
+Pools 4 & 5,barcode07,Goat,Capra hircus,99.647,1,1:0,44
+Pools 4 & 5,barcode07,Elephant,Loxodonta africana,100.0,1,1:0,40
+Pools 4 & 5,barcode07,Goat,Capra hircus,92.508,1,1:0,43
+Pools 4 & 5,barcode07,Buffalo,Syncerus caffer,99.023,1,1:0,1909
+Pools 4 & 5,barcode07,Elephant,Loxodonta africana,90.228,1,1:0,11
+Pools 4 & 5,barcode07,Goat,Capra hircus,90.333,1,1:0,51
+Pools 4 & 5,barcode07,multiple species,N/A,100.0,2,3:0,68
+Pools 4 & 5,barcode07,Human,Homo sapiens,98.925,1,5:0,35
+Pools 4 & 5,barcode07,multiple species,N/A,92.131,2,0:2,35
+Pools 4 & 5,barcode07,Human,Homo sapiens,90.033,1,1:0,92
+Pools 4 & 5,barcode07,Elephant,Loxodonta africana,90.554,1,1:0,40
+Pools 4 & 5,barcode07,Goat,Capra hircus,99.647,1,1:0,37
+Pools 4 & 5,barcode07,Antelope,Tragelaphus scriptus,90.106,1,1:0,34
+Pools 4 & 5,barcode07,multiple species,N/A,91.803,2,0:2,23
+Pools 4 & 5,barcode07,Human,Homo sapiens,92.359,1,5:0,76
+Pools 4 & 5,barcode07,multiple species,N/A,99.023,2,3:0,26
+Pools 4 & 5,barcode07,Buffalo,Syncerus caffer,99.023,1,1:0,24
+Pools 4 & 5,barcode07,Human,Homo sapiens,98.75,1,5:0,25
+Pools 4 & 5,barcode07,Human,Homo sapiens,93.069,1,5:0,27
+Pools 4 & 5,barcode07,Buffalo,Syncerus caffer,92.484,1,1:0,755
+Pools 4 & 5,barcode07,multiple species,N/A,97.386,2,2:0,1056
+Pools 4 & 5,barcode07,Antelope,Taurotragus derbianus,90.554,1,0:1,48
+Pools 4 & 5,barcode07,Antelope,Tragelaphus scriptus,90.228,1,1:0,107
+Pools 4 & 5,barcode07,Goat,Capra hircus,92.182,1,1:0,64
+Pools 4 & 5,barcode07,Goat,Capra hircus,93.289,1,1:0,104
+Pools 4 & 5,barcode07,Goat,Capra hircus,91.205,1,1:0,70
+Pools 4 & 5,barcode07,Buffalo,Syncerus caffer,99.023,1,1:0,206
+Pools 4 & 5,barcode07,multiple species,N/A,99.023,2,5:0,78
+Pools 4 & 5,barcode07,Buffalo,Syncerus caffer,98.697,1,1:0,24
+Pools 4 & 5,barcode07,Human,Homo sapiens,99.023,1,5:0,10
+Pools 4 & 5,barcode07,multiple species,N/A,100.0,2,2:0,5
+Pools 4 & 5,barcode07,multiple species,N/A,99.023,2,5:0,46
+Pools 4 & 5,barcode07,Buffalo,Syncerus caffer,99.023,1,1:0,16
+Pools 4 & 5,barcode07,multiple species,N/A,99.674,2,2:0,13
+Pools 4 & 5,barcode07,Buffalo,Syncerus caffer,99.023,1,1:0,9
+Pools 4 & 5,barcode07,Buffalo,Syncerus caffer,99.023,1,1:0,18
+Pools 4 & 5,barcode07,Human,Homo sapiens,99.023,1,5:0,11
+Pools 4 & 5,barcode07,Buffalo,Syncerus caffer,99.023,1,1:0,15
+Pools 4 & 5,barcode07,multiple species,N/A,99.674,2,2:0,66
+Pool6,barcode04,Goat,Capra hircus,99.674,1,1:0,21980
+Pool6,barcode04,Human,Homo sapiens,99.023,1,5:0,32299
+Pool6,barcode04,Goat,Capra hircus,99.674,1,1:0,15618
+Pool6,barcode04,Buffalo,Syncerus caffer,99.023,1,1:0,12392
+Pool6,barcode04,Elephant,Loxodonta africana,100.0,1,1:0,1175
+Pool6,barcode04,Human,Homo sapiens,98.925,1,5:0,74
+Pool6,barcode04,Human,Homo sapiens,90.033,1,1:0,283
+Pool6,barcode04,Buffalo,Syncerus caffer,99.023,1,1:0,259
+Pool6,barcode04,multiple species,N/A,97.386,2,2:0,213
+Pool6,barcode04,Goat,Capra hircus,91.362,1,1:0,558
+Pool6,barcode04,Goat,Capra hircus,92.027,1,1:0,445
+Pool6,barcode04,Human,Homo sapiens,99.267,1,5:0,106
+Pool6,barcode04,Buffalo,Syncerus caffer,91.83,1,1:0,230
+Pool6,barcode04,Goat,Capra hircus,92.617,1,1:0,312
+Pool6,barcode04,Buffalo,Syncerus caffer,91.83,1,1:0,178
+Pool6,barcode04,Goat,Capra hircus,92.953,1,1:0,304
+Pool6,barcode04,Human,Homo sapiens,90.033,1,1:0,198
+Pool6,barcode04,Goat,Capra hircus,99.674,1,1:0,425
+Pool6,barcode04,Human,Homo sapiens,98.755,1,5:0,57
+Pool6,barcode04,Elephant,Loxodonta africana,100.0,1,1:0,48
+Pool6,barcode04,multiple species,N/A,97.059,2,2:0,144
+Pool6,barcode04,multiple species,N/A,92.157,2,2:0,154
+Pool6,barcode04,Goat,Capra hircus,99.647,1,1:0,71
+Pool6,barcode04,Buffalo,Syncerus caffer,98.94,1,1:0,43
+Pool6,barcode04,Antelope,Taurotragus derbianus,90.813,1,0:1,29
+Pool6,barcode04,multiple species,N/A,100.0,2,3:0,44
+Pool6,barcode04,Buffalo,Syncerus caffer,91.205,1,1:0,512
+Pool6,barcode04,multiple species,N/A,90.041,2,2:0,40
+Pool6,barcode04,Buffalo,Syncerus caffer,99.023,1,1:0,8892
+Pool6,barcode04,Goat,Capra hircus,99.556,1,1:0,59
+Pool6,barcode04,Elephant,Loxodonta africana,93.506,1,1:0,20
+Pool6,barcode04,multiple species,N/A,92.0,2,2:0,27
+Pool6,barcode04,Goat,Capra hircus,100.0,1,1:0,44
+Pool6,barcode04,Human,Homo sapiens,100.0,1,5:0,28
+Pool6,barcode04,Buffalo,Syncerus caffer,99.184,1,1:0,23
+Pool6,barcode04,Goat,Capra hircus,92.027,1,1:0,33
+Pool6,barcode04,Goat,Capra hircus,91.205,1,1:0,515
+Pool6,barcode04,Buffalo,Syncerus caffer,98.936,1,1:0,47
+Pool6,barcode04,multiple species,N/A,91.475,2,0:2,40
+Pool6,barcode04,Elephant,Loxodonta africana,100.0,1,1:0,19
+Pool6,barcode04,Goat,Capra hircus,90.879,1,1:0,28
+Pool6,barcode04,Elephant,Loxodonta africana,90.228,1,1:0,26
+Pool6,barcode04,Human,Homo sapiens,91.749,1,5:0,44
+Pool6,barcode04,Goat,Capra hircus,93.16,1,1:0,353
+Pool6,barcode04,Antelope,Taurotragus derbianus,91.336,1,0:1,22
+Pool6,barcode04,Elephant,Loxodonta africana,100.0,1,1:0,1474
+Pool6,barcode04,Human,Homo sapiens,99.023,1,5:0,1360
+Pool6,barcode04,Human,Homo sapiens,99.023,1,5:0,39139
+Pool6,barcode04,multiple species,N/A,91.667,2,2:0,125
+Pool6,barcode04,Antelope,Tragelaphus scriptus,90.106,1,1:0,38
+Pool6,barcode04,Goat,Capra hircus,97.073,1,1:0,22
+Pool6,barcode04,Buffalo,Syncerus caffer,99.023,1,1:0,468
+Pool6,barcode04,multiple species,N/A,91.475,2,0:2,21
+Pool6,barcode04,Human,Homo sapiens,99.023,1,5:0,36
+Pool6,barcode04,multiple species,N/A,99.674,2,5:0,23
+Pool6,barcode04,Buffalo,Syncerus caffer,96.429,1,1:0,26
+Pool6,barcode04,Human,Homo sapiens,99.023,1,5:0,51
+Pool6,barcode04,Human,Homo sapiens,99.023,1,5:0,19
+Pool6,barcode04,Goat,Capra hircus,99.674,1,1:0,47
+Pool6,barcode04,Human,Homo sapiens,99.023,1,5:0,33
+Pool6,barcode04,Goat,Capra hircus,99.674,1,1:0,24
+Pool6,barcode04,Buffalo,Syncerus caffer,90.85,1,1:0,30
+Pool6,barcode04,multiple species,N/A,99.344,2,5:0,29
+Pool6,barcode08,Human,Homo sapiens,99.023,1,5:0,36039
+Pool6,barcode08,Goat,Capra hircus,99.674,1,1:0,9525
+Pool6,barcode08,Goat,Capra hircus,99.674,1,1:0,6189
+Pool6,barcode08,Human,Homo sapiens,99.023,1,5:0,1328
+Pool6,barcode08,Buffalo,Syncerus caffer,99.023,1,1:0,1169
+Pool6,barcode08,Goat,Capra hircus,99.674,1,1:0,520
+Pool6,barcode08,Elephant,Loxodonta africana,100.0,1,1:0,1150
+Pool6,barcode08,Buffalo,Syncerus caffer,99.023,1,1:0,171
+Pool6,barcode08,Goat,Capra hircus,99.647,1,1:0,45
+Pool6,barcode08,Goat,Capra hircus,91.362,1,1:0,231
+Pool6,barcode08,Buffalo,Syncerus caffer,99.023,1,1:0,165
+Pool6,barcode08,Human,Homo sapiens,92.359,1,5:0,104
+Pool6,barcode08,Human,Homo sapiens,99.595,1,5:0,19
+Pool6,barcode08,Goat,Capra hircus,90.879,1,1:0,177
+Pool6,barcode08,Human,Homo sapiens,98.936,1,5:0,65
+Pool6,barcode08,Buffalo,Syncerus caffer,91.83,1,1:0,43
+Pool6,barcode08,Elephant,Loxodonta africana,100.0,1,1:0,37
+Pool6,barcode08,Goat,Capra hircus,92.953,1,1:0,118
+Pool6,barcode08,Goat,Capra hircus,92.834,1,1:0,127
+Pool6,barcode08,Elephant,Loxodonta africana,100.0,1,1:0,43
+Pool6,barcode08,Antelope,Taurotragus derbianus,90.942,1,0:1,20
+Pool6,barcode08,Goat,Capra hircus,91.857,1,1:0,96
+Pool6,barcode08,Human,Homo sapiens,90.033,1,1:0,69
+Pool6,barcode08,Human,Homo sapiens,98.75,1,5:0,30
+Pool6,barcode08,Goat,Capra hircus,93.16,1,1:0,54
+Pool6,barcode08,Buffalo,Syncerus caffer,98.936,1,1:0,9
+Pool6,barcode08,Human,Homo sapiens,90.033,1,1:0,9
+Pool6,barcode08,Goat,Capra hircus,99.636,1,1:0,14
+Pool6,barcode08,multiple species,N/A,97.059,2,2:0,25
+Pool6,barcode08,Goat,Capra hircus,99.639,1,1:0,33
+Pool6,barcode08,Goat,Capra hircus,97.561,1,1:0,11
+Pool6,barcode08,multiple species,N/A,91.667,2,2:0,33
+Pool6,barcode08,Human,Homo sapiens,98.925,1,5:0,34
+Pool6,barcode08,Antelope,Tragelaphus scriptus,90.323,1,1:0,23
+Pool6,barcode08,Goat,Capra hircus,99.556,1,1:0,11
+Pool6,barcode08,Human,Homo sapiens,92.308,1,5:0,43
+Pool6,barcode08,Goat,Capra hircus,99.674,1,1:0,810
+Pool6,barcode08,Human,Homo sapiens,99.023,1,5:0,1079
+Pool6,barcode08,multiple species,N/A,97.386,2,2:0,22
+Pool6,barcode08,Buffalo,Syncerus caffer,99.023,1,1:0,2480
+Pool6,barcode08,Goat,Capra hircus,92.282,1,1:0,102
+Pool6,barcode08,multiple species,N/A,91.667,2,2:0,83
+Pool6,barcode08,Human,Homo sapiens,99.023,1,5:0,448
+Pool6,barcode08,Human,Homo sapiens,99.023,1,5:0,398
+Pool6,barcode08,multiple species,N/A,99.674,2,5:0,252
+Pool6,barcode08,multiple species,N/A,99.674,2,2:0,35
+Pool6,barcode08,Human,Homo sapiens,99.023,1,5:0,232
+Pool6,barcode08,Goat,Capra hircus,99.674,1,1:0,184
+Pool6,barcode08,Human,Homo sapiens,99.023,1,5:0,340
+Pool6,barcode08,Goat,Capra hircus,99.674,1,1:0,223
+Pool6,barcode08,Human,Homo sapiens,99.023,1,5:0,195
+Pool6,barcode08,Buffalo,Syncerus caffer,99.023,1,1:0,63
+Pool6,barcode08,Goat,Capra hircus,99.674,1,1:0,143
+Pool6,barcode08,Human,Homo sapiens,99.023,1,5:0,35
+Pool6,barcode08,Goat,Capra hircus,99.674,1,1:0,134
+Pool6,barcode08,multiple species,N/A,99.674,2,2:0,149
+Pool6,barcode08,Buffalo,Syncerus caffer,99.023,1,1:0,50
+Pool6,barcode08,Elephant,Loxodonta africana,100.0,1,1:0,16
+Pool6,barcode08,multiple species,N/A,100.0,2,2:0,11
+Pool6,barcode08,Buffalo,Syncerus caffer,99.349,1,1:0,60
+Pool6,barcode08,multiple species,N/A,99.023,2,5:0,27
+Pool6,barcode08,multiple species,N/A,99.023,2,5:0,60
+Pool6,barcode08,Elephant,Loxodonta africana,100.0,1,1:0,9
+Pool6,barcode08,multiple species,N/A,100.0,2,5:0,9
+Pool6,barcode08,multiple species,N/A,100.0,2,5:0,21
+Pool6,barcode08,multiple species,N/A,99.674,2,5:0,241
+Pool6,barcode08,Human,Homo sapiens,99.023,1,5:0,47
+Pool6,barcode08,Human,Homo sapiens,99.023,1,5:0,43
+Pool6,barcode08,Human,Homo sapiens,99.023,1,5:0,5
